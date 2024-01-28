@@ -1,8 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&random=false&width=900&height=70&lines=%D0%91%D0%B0%D0%B7%D0%B0+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85+%22%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9+%D0%9C%D0%B8%D1%80%22+" alt="Typing SVG" /></a></p>
 
-
-<h2 align="center">Блок-схема таблиц</h3>
 <p align="center">
   <img src="https://i.ibb.co.com/bP4PDJ7/2024-01-28-132320.png">
 </p>
